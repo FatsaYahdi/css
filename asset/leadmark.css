@@ -11624,7 +11624,7 @@ textarea.form-control {
 
 .section.has-img-bg {
   position: relative;
-  background: url(/img/Carrot.jpg) no-repeat center top fixed;
+  background: url(asset/Carrot.jpg) no-repeat center top fixed;
   background-size: cover;
   color: #fff;
 }
